@@ -1,0 +1,1911 @@
+{
+  "pages": {
+    "page_0": {
+      "id": "page_0",
+      "mode": "FIT_WINDOW",
+      "type": "NORMAL",
+      "layout": {
+        "LARGE": "layout_0",
+        "SMALL": "layout_9"
+      },
+      "isDefault": true,
+      "isVisible": true,
+      "label": "页面",
+      "header": true,
+      "footer": false
+    },
+    "page_1": {
+      "id": "page_1",
+      "mode": "FIT_WINDOW",
+      "type": "NORMAL",
+      "layout": {
+        "LARGE": "layout_6",
+        "SMALL": "layout_13"
+      },
+      "isDefault": false,
+      "isVisible": true,
+      "label": "页面 2",
+      "header": true,
+      "footer": false
+    }
+  },
+  "layouts": {
+    "layout_0": {
+      "type": "FIXED",
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "0.0%",
+            "right": "0.0%",
+            "top": "0.0%",
+            "bottom": "0.0%",
+            "width": "100.0%",
+            "height": "100.0%"
+          },
+          "widgetId": "widget_1",
+          "setting": {
+            "autoProps": {
+              "left": true,
+              "right": false,
+              "top": true,
+              "bottom": false
+            },
+            "vCenter": false,
+            "hCenter": false
+          },
+          "isPending": false
+        }
+      },
+      "order": [
+        "0"
+      ]
+    },
+    "layout_1": {
+      "type": "FIXED",
+      "label": "Map FixedLayout",
+      "order": [
+        "0"
+      ],
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "75.2%",
+            "right": "0.0%",
+            "top": "0.0%",
+            "bottom": "0.0%",
+            "width": "24.8%",
+            "height": "100.0%"
+          },
+          "widgetId": "widget_4",
+          "setting": {
+            "autoProps": {
+              "right": false,
+              "left": true,
+              "top": true,
+              "bottom": false
+            }
+          }
+        }
+      }
+    },
+    "layout_2": {
+      "type": "FIXED",
+      "setting": {
+        "lockDescendants": true
+      },
+      "order": [
+        "0",
+        "1"
+      ],
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "21.8%",
+            "right": "56.7%",
+            "top": "0.0%",
+            "bottom": "0.0%",
+            "width": "21.5%",
+            "height": "100.0%"
+          },
+          "widgetId": "widget_2",
+          "setting": {
+            "autoProps": {
+              "right": true,
+              "left": false,
+              "top": true,
+              "bottom": false
+            },
+            "vCenter": false,
+            "hCenter": false,
+            "lockParent": true
+          },
+          "isPending": false
+        },
+        "1": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "2.3%",
+            "right": "86.7%",
+            "top": "0.0%",
+            "bottom": "0.0%",
+            "width": "11.0%",
+            "height": "100.0%"
+          },
+          "widgetId": "widget_3",
+          "setting": {
+            "autoProps": {
+              "left": false,
+              "right": true,
+              "top": true,
+              "bottom": false
+            },
+            "lockParent": true,
+            "vCenter": false,
+            "hCenter": false
+          },
+          "isPending": false
+        }
+      }
+    },
+    "layout_3": {
+      "type": "FIXED",
+      "setting": {
+        "lockDescendants": true
+      }
+    },
+    "layout_4": {
+      "type": "FIXED",
+      "label": "首页"
+    },
+    "layout_5": {
+      "type": "FIXED",
+      "label": "秒",
+      "order": [
+        "0",
+        "1"
+      ],
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "setting": {
+            "style": {},
+            "autoProps": {
+              "right": false,
+              "left": true,
+              "top": false,
+              "bottom": true
+            },
+            "lockParent": true
+          },
+          "bbox": {
+            "left": "0.0%",
+            "right": "0.0%",
+            "top": "0.0%",
+            "bottom": "9.4%",
+            "width": "100.0%",
+            "height": "90.6%"
+          },
+          "widgetId": "widget_7"
+        },
+        "1": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "0.0%",
+            "right": "0.0%",
+            "top": "90.6%",
+            "bottom": "2.8%",
+            "width": "100.0%",
+            "height": "6.6%"
+          },
+          "widgetId": "widget_8",
+          "setting": {
+            "autoProps": {
+              "left": true,
+              "right": false,
+              "top": true,
+              "bottom": false
+            },
+            "vCenter": false,
+            "hCenter": false
+          },
+          "isPending": false
+        }
+      }
+    },
+    "layout_6": {
+      "type": "FIXED",
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "0.0%",
+            "right": "24.0%",
+            "top": "0.0%",
+            "bottom": "0.0%",
+            "width": "76.0%",
+            "height": "100.0%"
+          },
+          "widgetId": "widget_9",
+          "setting": {
+            "autoProps": {
+              "left": false,
+              "right": true,
+              "top": true,
+              "bottom": false
+            }
+          }
+        },
+        "1": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "76.0%",
+            "right": "-0.3%",
+            "top": "0.0%",
+            "bottom": "69.3%",
+            "width": "24.3%",
+            "height": "30.7%"
+          },
+          "widgetId": "widget_10",
+          "setting": {
+            "autoProps": {
+              "right": false,
+              "left": true,
+              "top": false,
+              "bottom": true
+            },
+            "lockParent": false,
+            "vCenter": false,
+            "hCenter": false
+          },
+          "isPending": false
+        },
+        "2": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "76.0%",
+            "right": "0.0%",
+            "top": "32.8%",
+            "bottom": "36.0%",
+            "width": "24.0%",
+            "height": "31.2%"
+          },
+          "widgetId": "widget_11",
+          "setting": {
+            "autoProps": {
+              "right": false,
+              "left": true,
+              "top": false,
+              "bottom": true
+            },
+            "vCenter": false,
+            "hCenter": false
+          },
+          "isPending": false
+        },
+        "3": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "77.4%",
+            "right": "1.3%",
+            "top": "78.7%",
+            "bottom": "14.7%",
+            "width": "21.3%",
+            "height": "6.6%"
+          },
+          "widgetId": "widget_12",
+          "setting": {
+            "autoProps": {
+              "right": false,
+              "left": true,
+              "top": true,
+              "bottom": false
+            },
+            "vCenter": false,
+            "hCenter": false
+          },
+          "isPending": false
+        }
+      },
+      "order": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ]
+    },
+    "layout_7": {
+      "type": "FIXED",
+      "label": "Map FixedLayout",
+      "order": [],
+      "content": {}
+    },
+    "layout_8": {
+      "type": "FIXED",
+      "setting": {
+        "lockDescendants": true
+      },
+      "order": [
+        "0",
+        "2"
+      ],
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "20.7%",
+            "right": "16.0%",
+            "top": "0.0%",
+            "bottom": "0.0%",
+            "width": "63.3%",
+            "height": "100.0%"
+          },
+          "widgetId": "widget_2",
+          "setting": {
+            "autoProps": {
+              "right": false,
+              "left": true,
+              "top": true,
+              "bottom": false
+            },
+            "vCenter": false,
+            "hCenter": false,
+            "lockParent": true
+          },
+          "isPending": true
+        },
+        "2": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "10.1%",
+            "right": "9.9%",
+            "top": "0.0%",
+            "bottom": "0.0%",
+            "width": "80.0%",
+            "height": "100.0%"
+          },
+          "widgetId": "widget_3",
+          "setting": {
+            "lockParent": true,
+            "vCenter": false,
+            "hCenter": false,
+            "autoProps": {
+              "left": true,
+              "right": false,
+              "top": true,
+              "bottom": false
+            }
+          },
+          "isPending": false
+        }
+      }
+    },
+    "layout_9": {
+      "type": "FIXED",
+      "order": [
+        "0"
+      ],
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "0.0%",
+            "right": "0.0%",
+            "top": "0.0%",
+            "bottom": "0.0%",
+            "width": "100.0%",
+            "height": "100.0%"
+          },
+          "widgetId": "widget_1",
+          "setting": {
+            "autoProps": {
+              "left": true,
+              "right": false,
+              "top": true,
+              "bottom": false
+            },
+            "vCenter": false,
+            "hCenter": false
+          },
+          "isPending": false
+        }
+      }
+    },
+    "layout_10": {
+      "type": "FIXED",
+      "label": "Map FixedLayout",
+      "order": [
+        "0"
+      ],
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "0.0%",
+            "right": "0.0%",
+            "top": "44.7%",
+            "bottom": "0.0%",
+            "width": "100.0%",
+            "height": "55.3%"
+          },
+          "widgetId": "widget_13",
+          "setting": {
+            "autoProps": {
+              "right": false,
+              "left": true,
+              "top": true,
+              "bottom": false
+            }
+          }
+        }
+      }
+    },
+    "layout_11": {
+      "type": "FIXED",
+      "label": "首页"
+    },
+    "layout_12": {
+      "type": "FIXED",
+      "label": "秒",
+      "order": [
+        "0",
+        "1"
+      ],
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "setting": {
+            "style": {},
+            "autoProps": {
+              "right": false,
+              "left": true,
+              "top": false,
+              "bottom": true
+            },
+            "lockParent": true
+          },
+          "bbox": {
+            "left": "0.0%",
+            "right": "0.0%",
+            "top": "0.0%",
+            "bottom": "15.6%",
+            "width": "100.0%",
+            "height": "84.4%"
+          },
+          "widgetId": "widget_7"
+        },
+        "1": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "0.0%",
+            "right": "0.0%",
+            "top": "84.0%",
+            "bottom": "0.0%",
+            "width": "100.0%",
+            "height": "16.0%"
+          },
+          "widgetId": "widget_8",
+          "setting": {
+            "autoProps": {
+              "left": true,
+              "right": false,
+              "top": true,
+              "bottom": false
+            },
+            "vCenter": false,
+            "hCenter": false
+          },
+          "isPending": false
+        }
+      }
+    },
+    "layout_13": {
+      "type": "FIXED",
+      "order": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "0.0%",
+            "right": "0.0%",
+            "top": "0.0%",
+            "bottom": "52.4%",
+            "width": "100.0%",
+            "height": "47.6%"
+          },
+          "widgetId": "widget_9",
+          "setting": {
+            "autoProps": {
+              "left": true,
+              "right": false,
+              "top": false,
+              "bottom": true
+            }
+          }
+        },
+        "1": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "0.0%",
+            "right": "45.6%",
+            "top": "47.6%",
+            "bottom": "8.8%",
+            "width": "54.4%",
+            "height": "43.6%"
+          },
+          "widgetId": "widget_10",
+          "setting": {
+            "autoProps": {
+              "right": true,
+              "left": false,
+              "top": true,
+              "bottom": false
+            },
+            "lockParent": false,
+            "vCenter": false,
+            "hCenter": false
+          },
+          "isPending": false
+        },
+        "2": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "54.4%",
+            "right": "0.0%",
+            "top": "47.7%",
+            "bottom": "8.8%",
+            "width": "45.6%",
+            "height": "43.5%"
+          },
+          "widgetId": "widget_11",
+          "setting": {
+            "autoProps": {
+              "right": false,
+              "left": true,
+              "top": true,
+              "bottom": false
+            },
+            "vCenter": false,
+            "hCenter": false
+          },
+          "isPending": false
+        },
+        "3": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "-0.1%",
+            "right": "0.0%",
+            "top": "90.5%",
+            "bottom": "0.0%",
+            "width": "100.1%",
+            "height": "9.5%"
+          },
+          "widgetId": "widget_12",
+          "setting": {
+            "autoProps": {
+              "right": true,
+              "left": false,
+              "top": true,
+              "bottom": false
+            },
+            "vCenter": false,
+            "hCenter": false
+          },
+          "isPending": false
+        }
+      }
+    },
+    "layout_14": {
+      "type": "FIXED",
+      "label": "Map FixedLayout"
+    }
+  },
+  "exbVersion": "1.12.0",
+  "mainSizeMode": "LARGE",
+  "theme": "themes/ink/",
+  "forBuilderAttributes": {
+    "lockLayout": false,
+    "viewPortSize": {
+      "MEDIUM": {
+        "width": 600,
+        "height": 1024
+      },
+      "SMALL": {
+        "width": 375,
+        "height": 667
+      }
+    }
+  },
+  "template": "blankfullscreen",
+  "widgets": {
+    "widget_1": {
+      "uri": "widgets/arcgis/arcgis-map/",
+      "version": "1.12.0",
+      "label": "地图",
+      "config": {
+        "toolConfig": {
+          "canZoom": false,
+          "canHome": false,
+          "canSearch": false,
+          "canNavigation": false,
+          "canSelect": false,
+          "canSelectState": false,
+          "canLocate": false
+        },
+        "isUseCustomMapState": true,
+        "initialMapState": {
+          "viewPoint": {
+            "rotation": 0,
+            "scale": 2256.994353,
+            "targetGeometry": {
+              "spatialReference": {
+                "latestWkid": 3857,
+                "wkid": 102100
+              },
+              "x": 13200316.478807133,
+              "y": 2865217.9543342153
+            }
+          },
+          "extent": {
+            "spatialReference": {
+              "latestWkid": 3857,
+              "wkid": 102100
+            },
+            "xmin": 13199996.100169003,
+            "ymin": 2864979.088620791,
+            "xmax": 13200636.857445262,
+            "ymax": 2865456.8200476393
+          },
+          "rotation": 0,
+          "viewType": "2d"
+        },
+        "initialMapDataSourceID": "dataSource_1",
+        "disablePopUp": true,
+        "layoutIndex": 0
+      },
+      "id": "widget_1",
+      "layouts": {
+        "MapFixedLayout": {
+          "LARGE": "layout_1",
+          "SMALL": "layout_10"
+        }
+      },
+      "useDataSources": [
+        {
+          "dataSourceId": "dataSource_1",
+          "mainDataSourceId": "dataSource_1"
+        }
+      ]
+    },
+    "widget_2": {
+      "uri": "widgets/common/text/",
+      "version": "1.12.0",
+      "label": "文本",
+      "config": {
+        "text": "<p style=\"text-align: center;\"><span style=\"letter-spacing: 1.5px; font-family: &quot;Microsoft YaHei&quot;; font-size: 20px;\">泉州古城建筑现状调研</span></p>",
+        "placeholder": "双击以编辑文本",
+        "style": {
+          "verticalAlign": "start",
+          "wrap": false
+        }
+      },
+      "id": "widget_2"
+    },
+    "widget_3": {
+      "uri": "widgets/common/image/",
+      "version": "1.12.0",
+      "label": "影像",
+      "config": {
+        "functionConfig": {
+          "altText": "",
+          "toolTip": "",
+          "linkParam": {},
+          "scale": "Fit",
+          "imageParam": {
+            "url": "${appResourceUrl}/images/widget_3/1698252707835.png",
+            "originalUrl": "${appResourceUrl}/images/widget_3/1698252707835.png",
+            "fileName": "1698252707835.png",
+            "originalName": "logo.png",
+            "imgSourceType": "BY_UPLOAD",
+            "fileFormat": "image/jpeg",
+            "originalId": "1698252707835",
+            "isUseCompress": false,
+            "originalWidth": 210,
+            "originalHeight": 50,
+            "cropParam": {
+              "svgViewBox": "0 0 16 16",
+              "svgPath": "M0 0h16v16H0V0Z",
+              "cropShape": "square"
+            }
+          },
+          "imageDisplayQualityMode": "ORIGINAL",
+          "imgSourceType": "",
+          "srcExpression": null,
+          "isCropped": true,
+          "imageFillMode": "FIT"
+        },
+        "styleConfig": {}
+      },
+      "id": "widget_3",
+      "style": {
+        "background": {
+          "color": null,
+          "fillType": "fill"
+        }
+      }
+    },
+    "widget_4": {
+      "uri": "widgets/layout/sidebar/",
+      "version": "1.12.0",
+      "label": "侧边栏",
+      "config": {
+        "direction": "HORIZONTAL",
+        "collapseSide": "SECOND",
+        "overlay": false,
+        "size": "291px",
+        "divider": {
+          "visible": true,
+          "lineStyle": {
+            "type": "solid",
+            "color": "var(--light-500)",
+            "width": "1px"
+          }
+        },
+        "resizable": true,
+        "toggleBtn": {
+          "visible": true,
+          "iconSource": 0,
+          "icon": "RIGHT",
+          "offsetX": -15,
+          "offsetY": 0,
+          "position": "CENTER",
+          "iconSize": 14,
+          "width": 15,
+          "height": 40,
+          "border": {
+            "type": "solid",
+            "color": "var(--light-500)",
+            "width": "1px"
+          },
+          "color": {
+            "normal": {
+              "icon": {
+                "useTheme": false,
+                "color": "var(--black)"
+              },
+              "bg": {
+                "useTheme": true,
+                "color": "var(--light)"
+              }
+            },
+            "hover": {
+              "bg": {
+                "useTheme": true,
+                "color": "var(--light)"
+              }
+            }
+          },
+          "expandStyle": {
+            "style": {
+              "borderRadius": "4px 0 0 4px"
+            }
+          },
+          "collapseStyle": {
+            "style": {
+              "borderRadius": "4px 0 0 4px"
+            }
+          },
+          "template": "rect"
+        },
+        "defaultState": 0
+      },
+      "id": "widget_4",
+      "layouts": {
+        "FIRST": {
+          "LARGE": "layout_4"
+        },
+        "SECOND": {
+          "LARGE": "layout_5"
+        }
+      }
+    },
+    "widget_7": {
+      "uri": "widgets/common/edit/",
+      "version": "1.12.0",
+      "label": "编辑",
+      "config": {
+        "layersConfig": [
+          {
+            "id": "dataSource_1-BuildingSurveyLayer_3417",
+            "name": "BuildingSurveyLayer",
+            "layerId": "BuildingSurveyLayer_3417",
+            "useDataSource": {
+              "dataSourceId": "dataSource_1-BuildingSurveyLayer_3417",
+              "mainDataSourceId": "dataSource_1-BuildingSurveyLayer_3417",
+              "rootDataSourceId": "dataSource_1"
+            },
+            "addRecords": false,
+            "deleteRecords": false,
+            "updateRecords": true,
+            "updateAttributes": true,
+            "updateGeometries": false,
+            "featureSnapping": false,
+            "showFields": [
+              {
+                "jimuName": "jznd",
+                "name": "jznd",
+                "type": "DATE",
+                "esriType": "esriFieldTypeDate",
+                "alias": "建筑年代",
+                "format": {
+                  "dateFormat": "shortDateShortTime",
+                  "digitSeparator": false
+                }
+              },
+              {
+                "jimuName": "doorid",
+                "name": "doorid",
+                "type": "STRING",
+                "esriType": "esriFieldTypeString",
+                "alias": "门牌号",
+                "format": null
+              },
+              {
+                "jimuName": "jzzl",
+                "name": "jzzl",
+                "type": "STRING",
+                "esriType": "esriFieldTypeString",
+                "alias": "建筑质量",
+                "format": null
+              },
+              {
+                "jimuName": "jzfm",
+                "name": "jzfm",
+                "type": "STRING",
+                "esriType": "esriFieldTypeString",
+                "alias": "建筑风貌",
+                "format": null
+              }
+            ],
+            "groupedFields": [
+              {
+                "jimuName": "jznd",
+                "name": "jznd",
+                "type": "DATE",
+                "esriType": "esriFieldTypeDate",
+                "alias": "建筑年代",
+                "format": {
+                  "dateFormat": "shortDateShortTime",
+                  "digitSeparator": false
+                },
+                "editAuthority": true,
+                "subDescription": "",
+                "editable": true
+              },
+              {
+                "jimuName": "doorid",
+                "name": "doorid",
+                "type": "STRING",
+                "esriType": "esriFieldTypeString",
+                "alias": "门牌号",
+                "format": null,
+                "editAuthority": true,
+                "subDescription": "",
+                "editable": true
+              },
+              {
+                "jimuName": "jzzl",
+                "name": "jzzl",
+                "type": "STRING",
+                "esriType": "esriFieldTypeString",
+                "alias": "建筑质量",
+                "format": null,
+                "editAuthority": true,
+                "subDescription": "",
+                "editable": true
+              },
+              {
+                "jimuName": "jzfm",
+                "name": "jzfm",
+                "type": "STRING",
+                "esriType": "esriFieldTypeString",
+                "alias": "建筑风貌",
+                "format": null,
+                "editAuthority": true,
+                "subDescription": "",
+                "editable": true
+              }
+            ],
+            "layerHonorMode": "CUSTOM"
+          }
+        ],
+        "editMode": "GEOMETRY",
+        "selfSnapping": false,
+        "featureSnapping": false,
+        "description": "",
+        "noDataMessage": ""
+      },
+      "id": "widget_7",
+      "useMapWidgetIds": [
+        "widget_1"
+      ],
+      "useDataSources": [
+        {
+          "dataSourceId": "dataSource_1-BuildingSurveyLayer_3417",
+          "mainDataSourceId": "dataSource_1-BuildingSurveyLayer_3417",
+          "rootDataSourceId": "dataSource_1"
+        }
+      ]
+    },
+    "widget_8": {
+      "uri": "widgets/common/button/",
+      "version": "1.12.0",
+      "label": "按钮",
+      "config": {
+        "functionConfig": {
+          "linkParam": {
+            "linkType": "PAGE",
+            "value": "page_1",
+            "openType": "_self"
+          },
+          "textExpression": {
+            "name": "",
+            "parts": [
+              {
+                "type": "STRING",
+                "exp": "\"统计\""
+              }
+            ]
+          },
+          "toolTipExpression": {
+            "name": "",
+            "parts": [
+              {
+                "type": "STRING",
+                "exp": "\"\""
+              }
+            ]
+          }
+        },
+        "styleConfig": {
+          "themeStyle": {
+            "quickStyleType": "default"
+          }
+        }
+      },
+      "id": "widget_8",
+      "useDataSourcesEnabled": true,
+      "useDataSources": [
+        {
+          "dataSourceId": "dataSource_1-BuildingSurveyLayer_3417",
+          "mainDataSourceId": "dataSource_1-BuildingSurveyLayer_3417",
+          "rootDataSourceId": "dataSource_1"
+        }
+      ]
+    },
+    "widget_9": {
+      "uri": "widgets/arcgis/arcgis-map/",
+      "version": "1.12.0",
+      "label": "地图 2",
+      "config": {
+        "toolConfig": {
+          "canZoom": false,
+          "canHome": false,
+          "canSearch": false,
+          "canNavigation": false,
+          "canSelect": false,
+          "canSelectState": false
+        },
+        "isUseCustomMapState": true,
+        "initialMapState": {
+          "viewPoint": {
+            "rotation": 0,
+            "scale": 2256.994353,
+            "targetGeometry": {
+              "spatialReference": {
+                "latestWkid": 3857,
+                "wkid": 102100
+              },
+              "x": 13200293.966995217,
+              "y": 2865208.1045584297
+            }
+          },
+          "extent": {
+            "spatialReference": {
+              "latestWkid": 3857,
+              "wkid": 102100
+            },
+            "xmin": 13200066.14882104,
+            "ymin": 2864969.2388450056,
+            "xmax": 13200521.785169395,
+            "ymax": 2865446.9702718537
+          },
+          "rotation": 0,
+          "viewType": "2d"
+        },
+        "initialMapDataSourceID": "dataSource_1",
+        "layoutIndex": 1
+      },
+      "id": "widget_9",
+      "layouts": {
+        "MapFixedLayout": {
+          "LARGE": "layout_7",
+          "SMALL": "layout_14"
+        }
+      },
+      "useDataSources": [
+        {
+          "dataSourceId": "dataSource_2",
+          "mainDataSourceId": "dataSource_2"
+        },
+        {
+          "dataSourceId": "dataSource_1",
+          "mainDataSourceId": "dataSource_1"
+        }
+      ]
+    },
+    "widget_10": {
+      "uri": "widgets/common/chart/",
+      "version": "1.12.0",
+      "label": "图表",
+      "config": {
+        "tools": {
+          "cursorEnable": false
+        },
+        "template": "pie",
+        "webChart": {
+          "version": "1.0.0",
+          "id": "pie",
+          "type": "chart",
+          "dataSource": {
+            "query": {
+              "groupByFieldsForStatistics": [
+                "jzfm"
+              ],
+              "outStatistics": [
+                {
+                  "statisticType": "count",
+                  "onStatisticField": "objectid",
+                  "outStatisticFieldName": "objectid_count"
+                }
+              ],
+              "orderByFields": [
+                "jzfm ASC"
+              ]
+            }
+          },
+          "series": [
+            {
+              "type": "pieSeries",
+              "colorType": "singleColor",
+              "id": "objectid",
+              "name": "OBJECTID",
+              "x": "jzfm",
+              "y": "objectid_count",
+              "innerRadius": 0,
+              "startAngle": 0,
+              "endAngle": 360,
+              "displayNumericValueOnDataLabel": true,
+              "displayPercentageOnDataLabel": false,
+              "displayNumericValueOnTooltip": true,
+              "displayPercentageOnTooltip": true,
+              "dataLabelsOffset": 0,
+              "sliceGrouping": {
+                "sliceId": "__other-slice__",
+                "percentageThreshold": 0,
+                "label": "Other"
+              },
+              "numericValueFormat": {
+                "type": "number",
+                "intlOptions": {
+                  "style": "decimal",
+                  "useGrouping": true,
+                  "minimumFractionDigits": 0,
+                  "maximumFractionDigits": 3
+                }
+              },
+              "percentValueFormat": {
+                "type": "number",
+                "intlOptions": {
+                  "style": "percent",
+                  "notation": "standard",
+                  "minimumFractionDigits": 0,
+                  "maximumFractionDigits": 3
+                }
+              },
+              "fillSymbol": {
+                "type": "esriSFS",
+                "style": "esriSFSSolid",
+                "color": "#D6D6D6",
+                "outline": {
+                  "type": "esriSLS",
+                  "style": "esriSLSSolid",
+                  "color": "var(--light-100)",
+                  "width": 1
+                }
+              },
+              "dataLabels": {
+                "type": "chartText",
+                "visible": false,
+                "content": {
+                  "type": "esriTS",
+                  "color": "var(--dark-600)",
+                  "font": {
+                    "family": "Avenir Next",
+                    "size": 10,
+                    "style": "normal",
+                    "weight": "normal",
+                    "decoration": "none"
+                  },
+                  "horizontalAlignment": "center",
+                  "verticalAlignment": "top"
+                }
+              },
+              "slices": [
+                {
+                  "sliceId": "不协调",
+                  "fillSymbol": {
+                    "type": "esriSFS",
+                    "style": "esriSFSSolid",
+                    "color": "#5E8FD0",
+                    "outline": {
+                      "type": "esriSLS",
+                      "style": "esriSLSSolid",
+                      "color": "var(--light-100)",
+                      "width": 1
+                    }
+                  }
+                },
+                {
+                  "sliceId": "协调",
+                  "fillSymbol": {
+                    "type": "esriSFS",
+                    "style": "esriSFSSolid",
+                    "color": "#77B484",
+                    "outline": {
+                      "type": "esriSLS",
+                      "style": "esriSLSSolid",
+                      "color": "var(--light-100)",
+                      "width": 1
+                    }
+                  }
+                }
+              ]
+            }
+          ],
+          "background": "var(--white)",
+          "title": {
+            "type": "chartText",
+            "visible": true,
+            "content": {
+              "type": "esriTS",
+              "color": "var(--black)",
+              "font": {
+                "family": "Avenir Next",
+                "size": 24,
+                "style": "normal",
+                "weight": "normal",
+                "decoration": "none"
+              },
+              "horizontalAlignment": "center",
+              "text": "建筑风貌"
+            }
+          },
+          "footer": {
+            "type": "chartText",
+            "visible": true,
+            "content": {
+              "type": "esriTS",
+              "color": "var(--dark-800)",
+              "font": {
+                "family": "Avenir Next",
+                "size": 14,
+                "style": "normal",
+                "weight": "normal",
+                "decoration": "none"
+              },
+              "horizontalAlignment": "center",
+              "text": ""
+            }
+          },
+          "legend": {
+            "type": "chartLegend",
+            "visible": true,
+            "title": {
+              "type": "chartText",
+              "visible": true,
+              "content": {
+                "type": "esriTS",
+                "color": "var(--dark-800)",
+                "font": {
+                  "family": "Avenir Next",
+                  "size": 20,
+                  "style": "normal",
+                  "weight": "normal",
+                  "decoration": "none"
+                },
+                "horizontalAlignment": "center",
+                "text": ""
+              }
+            },
+            "body": {
+              "type": "esriTS",
+              "color": "var(--dark-800)",
+              "font": {
+                "family": "Avenir Next",
+                "size": 14,
+                "style": "normal",
+                "weight": "normal",
+                "decoration": "none"
+              },
+              "horizontalAlignment": "center",
+              "text": ""
+            },
+            "position": "top"
+          }
+        }
+      },
+      "id": "widget_10",
+      "outputDataSources": [
+        "widget_10_ouput"
+      ],
+      "useDataSources": [
+        {
+          "dataSourceId": "dataSource_1-BuildingSurveyLayer_3417",
+          "mainDataSourceId": "dataSource_1-BuildingSurveyLayer_3417",
+          "rootDataSourceId": "dataSource_1",
+          "fields": [
+            "jzfm",
+            "objectid"
+          ]
+        }
+      ],
+      "enableDataAction": false
+    },
+    "widget_11": {
+      "uri": "widgets/common/chart/",
+      "version": "1.12.0",
+      "label": "图表 2",
+      "config": {
+        "tools": {
+          "cursorEnable": false
+        },
+        "template": "pie",
+        "webChart": {
+          "version": "1.0.0",
+          "id": "pie",
+          "type": "chart",
+          "dataSource": {
+            "query": {
+              "groupByFieldsForStatistics": [
+                "jzzl"
+              ],
+              "outStatistics": [
+                {
+                  "statisticType": "count",
+                  "onStatisticField": "objectid",
+                  "outStatisticFieldName": "objectid_count"
+                }
+              ],
+              "orderByFields": [
+                "jzzl ASC"
+              ]
+            }
+          },
+          "series": [
+            {
+              "type": "pieSeries",
+              "colorType": "singleColor",
+              "id": "objectid",
+              "name": "OBJECTID",
+              "x": "jzzl",
+              "y": "objectid_count",
+              "innerRadius": 0,
+              "startAngle": 0,
+              "endAngle": 360,
+              "displayNumericValueOnDataLabel": true,
+              "displayPercentageOnDataLabel": false,
+              "displayNumericValueOnTooltip": true,
+              "displayPercentageOnTooltip": true,
+              "dataLabelsOffset": 0,
+              "sliceGrouping": {
+                "sliceId": "__other-slice__",
+                "percentageThreshold": 0,
+                "label": "Other"
+              },
+              "numericValueFormat": {
+                "type": "number",
+                "intlOptions": {
+                  "style": "decimal",
+                  "useGrouping": true,
+                  "minimumFractionDigits": 0,
+                  "maximumFractionDigits": 3
+                }
+              },
+              "percentValueFormat": {
+                "type": "number",
+                "intlOptions": {
+                  "style": "percent",
+                  "notation": "standard",
+                  "minimumFractionDigits": 0,
+                  "maximumFractionDigits": 3
+                }
+              },
+              "fillSymbol": {
+                "type": "esriSFS",
+                "style": "esriSFSSolid",
+                "color": "#D6D6D6",
+                "outline": {
+                  "type": "esriSLS",
+                  "style": "esriSLSSolid",
+                  "color": "var(--light-100)",
+                  "width": 1
+                }
+              },
+              "dataLabels": {
+                "type": "chartText",
+                "visible": false,
+                "content": {
+                  "type": "esriTS",
+                  "color": "var(--dark-600)",
+                  "font": {
+                    "family": "Avenir Next",
+                    "size": 10,
+                    "style": "normal",
+                    "weight": "normal",
+                    "decoration": "none"
+                  },
+                  "horizontalAlignment": "center",
+                  "verticalAlignment": "top"
+                }
+              },
+              "slices": [
+                {
+                  "sliceId": "一般",
+                  "fillSymbol": {
+                    "type": "esriSFS",
+                    "style": "esriSFSSolid",
+                    "color": "#5E8FD0",
+                    "outline": {
+                      "type": "esriSLS",
+                      "style": "esriSLSSolid",
+                      "color": "var(--light-100)",
+                      "width": 1
+                    }
+                  }
+                },
+                {
+                  "sliceId": "优秀",
+                  "fillSymbol": {
+                    "type": "esriSFS",
+                    "style": "esriSFSSolid",
+                    "color": "#77B484",
+                    "outline": {
+                      "type": "esriSLS",
+                      "style": "esriSLSSolid",
+                      "color": "var(--light-100)",
+                      "width": 1
+                    }
+                  }
+                },
+                {
+                  "sliceId": "良好",
+                  "fillSymbol": {
+                    "type": "esriSFS",
+                    "style": "esriSFSSolid",
+                    "color": "#DF6B35",
+                    "outline": {
+                      "type": "esriSLS",
+                      "style": "esriSLSSolid",
+                      "color": "var(--light-100)",
+                      "width": 1
+                    }
+                  }
+                },
+                {
+                  "sliceId": "较差",
+                  "fillSymbol": {
+                    "type": "esriSFS",
+                    "style": "esriSFSSolid",
+                    "color": "#DBCF4E",
+                    "outline": {
+                      "type": "esriSLS",
+                      "style": "esriSLSSolid",
+                      "color": "var(--light-100)",
+                      "width": 1
+                    }
+                  }
+                }
+              ]
+            }
+          ],
+          "background": "var(--white)",
+          "title": {
+            "type": "chartText",
+            "visible": true,
+            "content": {
+              "type": "esriTS",
+              "color": "var(--black)",
+              "font": {
+                "family": "Avenir Next",
+                "size": 24,
+                "style": "normal",
+                "weight": "normal",
+                "decoration": "none"
+              },
+              "horizontalAlignment": "center",
+              "text": "建筑质量"
+            }
+          },
+          "footer": {
+            "type": "chartText",
+            "visible": true,
+            "content": {
+              "type": "esriTS",
+              "color": "var(--dark-800)",
+              "font": {
+                "family": "Avenir Next",
+                "size": 14,
+                "style": "normal",
+                "weight": "normal",
+                "decoration": "none"
+              },
+              "horizontalAlignment": "center",
+              "text": ""
+            }
+          },
+          "legend": {
+            "type": "chartLegend",
+            "visible": true,
+            "title": {
+              "type": "chartText",
+              "visible": true,
+              "content": {
+                "type": "esriTS",
+                "color": "var(--dark-800)",
+                "font": {
+                  "family": "Avenir Next",
+                  "size": 20,
+                  "style": "normal",
+                  "weight": "normal",
+                  "decoration": "none"
+                },
+                "horizontalAlignment": "center",
+                "text": ""
+              }
+            },
+            "body": {
+              "type": "esriTS",
+              "color": "var(--dark-800)",
+              "font": {
+                "family": "Avenir Next",
+                "size": 14,
+                "style": "normal",
+                "weight": "normal",
+                "decoration": "none"
+              },
+              "horizontalAlignment": "center",
+              "text": ""
+            },
+            "position": "top"
+          }
+        }
+      },
+      "id": "widget_11",
+      "outputDataSources": [
+        "widget_11_ouput"
+      ],
+      "useDataSources": [
+        {
+          "dataSourceId": "dataSource_1-BuildingSurveyLayer_3417",
+          "mainDataSourceId": "dataSource_1-BuildingSurveyLayer_3417",
+          "rootDataSourceId": "dataSource_1",
+          "fields": [
+            "jzzl",
+            "objectid"
+          ]
+        }
+      ],
+      "enableDataAction": false
+    },
+    "widget_12": {
+      "uri": "widgets/common/button/",
+      "version": "1.12.0",
+      "label": "按钮 2",
+      "config": {
+        "functionConfig": {
+          "text": "回到编辑页面",
+          "textExpression": null,
+          "linkParam": {
+            "linkType": "PAGE",
+            "value": "page_0",
+            "openType": "_self"
+          }
+        },
+        "styleConfig": {
+          "customStyle": {
+            "regular": {
+              "background": {
+                "color": "#fff",
+                "fillType": "fill"
+              },
+              "border": {
+                "type": "solid",
+                "color": "var(--light-800)",
+                "width": "1px"
+              },
+              "text": {
+                "color": "var(--dark-800)",
+                "size": "14px"
+              },
+              "borderRadius": {
+                "unit": "px",
+                "number": [
+                  0,
+                  0,
+                  0,
+                  0
+                ]
+              }
+            },
+            "hover": {
+              "background": {
+                "color": "var(--light-100)",
+                "fillType": "fill"
+              },
+              "border": {
+                "type": "solid",
+                "width": "0px"
+              },
+              "text": {
+                "size": "14px"
+              },
+              "borderRadius": {
+                "unit": "px",
+                "number": [
+                  0,
+                  0,
+                  0,
+                  0
+                ]
+              }
+            }
+          },
+          "useCustom": true
+        }
+      },
+      "id": "widget_12"
+    },
+    "widget_13": {
+      "uri": "widgets/layout/sidebar/",
+      "version": "1.12.0",
+      "label": "侧边栏",
+      "config": {
+        "direction": "VERTICAL",
+        "collapseSide": "SECOND",
+        "overlay": false,
+        "size": "327px",
+        "divider": {
+          "visible": true,
+          "lineStyle": {
+            "type": "solid",
+            "color": "var(--light-500)",
+            "width": "1px"
+          }
+        },
+        "resizable": true,
+        "toggleBtn": {
+          "visible": true,
+          "iconSource": 0,
+          "icon": "DOWN",
+          "offsetX": 0,
+          "offsetY": -15,
+          "position": "CENTER",
+          "iconSize": 14,
+          "width": 40,
+          "height": 15,
+          "border": {
+            "type": "solid",
+            "color": "var(--light-500)",
+            "width": "1px"
+          },
+          "color": {
+            "normal": {
+              "icon": {
+                "useTheme": false,
+                "color": "var(--black)"
+              },
+              "bg": {
+                "useTheme": true,
+                "color": "var(--light)"
+              }
+            },
+            "hover": {
+              "bg": {
+                "useTheme": true,
+                "color": "var(--light)"
+              }
+            }
+          },
+          "expandStyle": {
+            "style": {
+              "borderRadius": "4px 4px 0 0"
+            }
+          },
+          "collapseStyle": {
+            "style": {
+              "borderRadius": "4px 4px 0 0"
+            }
+          },
+          "template": "rect"
+        },
+        "defaultState": 0
+      },
+      "id": "widget_13",
+      "layouts": {
+        "FIRST": {
+          "SMALL": "layout_11"
+        },
+        "SECOND": {
+          "SMALL": "layout_12"
+        }
+      }
+    }
+  },
+  "widgetsManifest": {},
+  "views": {},
+  "sections": {},
+  "dialogs": {},
+  "dataSources": {
+    "dataSource_1": {
+      "id": "dataSource_1",
+      "type": "WEB_MAP",
+      "sourceLabel": "buildingSurveyWorkingMap",
+      "itemId": "b5838bf101534b3691a03a7c04e3785a",
+      "portalUrl": "https://www.geosceneonline.cn/geoscene",
+      "childDataSourceJsons": {
+        "BuildingSurveyLayer_3417": {
+          "id": "dataSource_1-BuildingSurveyLayer_3417",
+          "sourceLabel": "BuildingSurveyLayer",
+          "type": "FEATURE_LAYER",
+          "url": "https://www.geosceneonline.cn/server/rest/services/Hosted/BuildingSurveyLayer/FeatureServer/0",
+          "portalUrl": "https://www.geosceneonline.cn/geoscene",
+          "itemId": "55941f14a25f44ef9a3ecd9b37edf9b0",
+          "geometryType": "esriGeometryPolygon",
+          "query": {
+            "id": "dataSource_1-BuildingSurveyLayer_3417",
+            "label": "BuildingSurveyLayer",
+            "refreshInterval": 600
+          },
+          "dataViews": {
+            "dataView_1": {
+              "id": "dataView_1",
+              "label": "数据视图 1",
+              "where": {
+                "logicalOperator": "AND",
+                "parts": [
+                  {
+                    "type": "SINGLE",
+                    "jimuFieldName": "jzfm",
+                    "operator": "STRING_OPERATOR_IS",
+                    "valueOptions": {
+                      "isValid": true,
+                      "sourceType": "UNIQUE",
+                      "inputEditor": "SIMPLE_SELECT",
+                      "value": [
+                        {
+                          "value": "不协调",
+                          "label": "不协调"
+                        }
+                      ]
+                    },
+                    "displayType": "NONE",
+                    "askForValueOptions": null,
+                    "displayLabel": null,
+                    "caseSensitive": false
+                  }
+                ],
+                "sql": "((LOWER(jzfm) = '不协调'))",
+                "displaySQL": "(建筑风貌 = '不协调')"
+              }
+            },
+            "dataView_2": {
+              "id": "dataView_2",
+              "label": "数据视图 2",
+              "where": {
+                "logicalOperator": "AND",
+                "parts": [
+                  {
+                    "type": "SINGLE",
+                    "jimuFieldName": "objectid",
+                    "operator": "NUMBER_OPERATOR_IS_GREATER_THAN",
+                    "valueOptions": {
+                      "isValid": true,
+                      "sourceType": "USER_INPUT",
+                      "inputEditor": "TEXT_BOX",
+                      "value": [
+                        {
+                          "value": 0,
+                          "label": "0"
+                        }
+                      ]
+                    },
+                    "displayType": "NONE",
+                    "askForValueOptions": null,
+                    "displayLabel": null,
+                    "caseSensitive": false
+                  }
+                ],
+                "sql": "((objectid > 0))",
+                "displaySQL": "(OBJECTID > 0)"
+              }
+            }
+          }
+        }
+      },
+      "isHidden": false
+    },
+    "dataSource_2": {
+      "id": "dataSource_2",
+      "type": "WEB_MAP",
+      "sourceLabel": "Building Survey Map",
+      "itemId": "c597d123853143e7b37ab8756edd15c6",
+      "portalUrl": "https://www.geosceneonline.cn/geoscene"
+    },
+    "widget_10_ouput": {
+      "id": "widget_10_ouput",
+      "type": "FEATURE_LAYER",
+      "label": "图表 统计数据",
+      "originDataSources": [
+        {
+          "dataSourceId": "dataSource_1-BuildingSurveyLayer_3417",
+          "mainDataSourceId": "dataSource_1-BuildingSurveyLayer_3417",
+          "rootDataSourceId": "dataSource_1",
+          "fields": []
+        }
+      ],
+      "isOutputFromWidget": true,
+      "isDataInDataSourceInstance": true,
+      "schema": {
+        "idField": "objectid",
+        "fields": {
+          "objectid": {
+            "jimuName": "objectid",
+            "alias": "OBJECTID",
+            "type": "NUMBER",
+            "name": "objectid"
+          },
+          "jzfm": {
+            "jimuName": "jzfm",
+            "name": "jzfm",
+            "type": "STRING",
+            "esriType": "esriFieldTypeString",
+            "alias": "建筑风貌",
+            "format": null,
+            "originFields": [
+              "jzfm"
+            ]
+          },
+          "objectid_count": {
+            "jimuName": "objectid_count",
+            "name": "objectid_count",
+            "type": "NUMBER",
+            "esriType": "esriFieldTypeOID",
+            "alias": "objectid_count",
+            "format": {
+              "digitSeparator": false,
+              "places": 0
+            },
+            "originFields": [
+              "objectid"
+            ]
+          }
+        }
+      }
+    },
+    "widget_11_ouput": {
+      "id": "widget_11_ouput",
+      "type": "FEATURE_LAYER",
+      "label": "图表 2 统计数据",
+      "originDataSources": [
+        {
+          "dataSourceId": "dataSource_1-BuildingSurveyLayer_3417",
+          "mainDataSourceId": "dataSource_1-BuildingSurveyLayer_3417",
+          "rootDataSourceId": "dataSource_1",
+          "fields": [
+            "jzzl",
+            "objectid"
+          ]
+        }
+      ],
+      "isOutputFromWidget": true,
+      "isDataInDataSourceInstance": true,
+      "schema": {
+        "idField": "objectid",
+        "fields": {
+          "objectid": {
+            "jimuName": "objectid",
+            "alias": "OBJECTID",
+            "type": "NUMBER",
+            "name": "objectid"
+          },
+          "jzzl": {
+            "jimuName": "jzzl",
+            "name": "jzzl",
+            "type": "STRING",
+            "esriType": "esriFieldTypeString",
+            "alias": "建筑质量",
+            "format": null,
+            "originFields": [
+              "jzzl"
+            ]
+          },
+          "objectid_count": {
+            "jimuName": "objectid_count",
+            "name": "objectid_count",
+            "type": "NUMBER",
+            "esriType": "esriFieldTypeOID",
+            "alias": "objectid_count",
+            "format": {
+              "digitSeparator": false,
+              "places": 0
+            },
+            "originFields": [
+              "objectid"
+            ]
+          }
+        }
+      }
+    }
+  },
+  "messageConfigs": {},
+  "attributes": {
+    "portalUrl": "https://www.geosceneonline.cn/geoscene"
+  },
+  "sharedThemeVariables": {
+    "header": {},
+    "body": {},
+    "button": {},
+    "logo": {
+      "small": null,
+      "link": null
+    }
+  },
+  "originExbVersion": "1.12.0",
+  "pageStructure": [
+    {
+      "page_0": []
+    },
+    {
+      "page_1": []
+    }
+  ],
+  "header": {
+    "layout": {
+      "LARGE": "layout_2",
+      "SMALL": "layout_8"
+    },
+    "height": {
+      "LARGE": 42,
+      "SMALL": 38
+    },
+    "backgroundColor": "rgba(0,0,0,0)"
+  },
+  "customTheme": {},
+  "footer": {
+    "layout": {
+      "LARGE": "layout_3"
+    },
+    "height": {
+      "LARGE": 75
+    }
+  },
+  "timestamp": 1698262273334
+}
